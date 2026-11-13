@@ -1,0 +1,242 @@
+[
+  {
+    "slug": "redi-health",
+    "name": "Redi Health",
+    "kind": "app",
+    "source": "prototype",
+    "role": "Mobile app design",
+    "summary": "A mobile app design bringing account setup, provider selection, health records, messaging, and consent into a consistent interface."
+  },
+  {
+    "slug": "midas-metals-app",
+    "name": "Midas Metals",
+    "kind": "app",
+    "source": "prototype",
+    "role": "Mobile app design",
+    "summary": "A mobile design for precious-metal balances, round-ups, recurring plans, and account activity. The original screens use warm onboarding and a structured account interface."
+  },
+  {
+    "slug": "earn-on-the-go",
+    "name": "Earn On The Go / Forbeto",
+    "kind": "app",
+    "source": "prototype",
+    "role": "Mobile app design",
+    "summary": "The prototype linked in the original portfolio is branded Forbeto. It contains a local business directory, engagement playlists, referrals, reward balances, and redemption flows."
+  },
+  {
+    "slug": "vank",
+    "name": "VANK",
+    "kind": "app",
+    "source": "original",
+    "role": "Mobile app design",
+    "summary": "Original mobile screens covering welcome, login, available balance, activity, and account confirmation."
+  },
+  {
+    "slug": "koolmd",
+    "name": "KoolMD",
+    "kind": "app",
+    "source": "original",
+    "role": "Mobile app design",
+    "summary": "A patient-facing app presentation with sign-in, form entry, and physician discovery screens."
+  },
+  {
+    "slug": "sendresala",
+    "name": "SendResala",
+    "kind": "app",
+    "source": "original",
+    "role": "Mobile app design",
+    "summary": "Original app screens showing a message composer, content view, primary navigation, and an overlay state."
+  },
+  {
+    "slug": "innovent",
+    "name": "Transport & Dispatch",
+    "kind": "dashboard",
+    "source": "original",
+    "role": "Dashboard and mobile UI design",
+    "summary": "A collection of original transport operations interfaces: map-based dispatch, trip listings, operational overlays, and companion driver/admin app screens."
+  },
+  {
+    "slug": "familiasin",
+    "name": "Familiasin",
+    "kind": "dashboard",
+    "source": "original",
+    "role": "Website and dashboard design + HTML / Bootstrap with Angular 6",
+    "summary": "Original login and administration exports preserved from the project archive. The live domain was unavailable during the portfolio update."
+  },
+  {
+    "slug": "doctorencasa",
+    "name": "Doctorencasa",
+    "kind": "website",
+    "source": "original",
+    "role": "Website UI design",
+    "summary": "A multi-page healthcare website design with separate patient and provider journeys, pricing, and information about the service."
+  },
+  {
+    "slug": "advanced-crm",
+    "name": "Advanced CRM Solutions",
+    "kind": "website",
+    "source": "original",
+    "role": "Website UI design",
+    "summary": "A long-form website layout introducing CRM services, expertise, and supporting information."
+  },
+  {
+    "slug": "compago",
+    "name": "Compago",
+    "kind": "website",
+    "source": "original",
+    "role": "Website UI design",
+    "summary": "An original website design introducing data portability through an airy layout, network imagery, and a modular content system."
+  },
+  {
+    "slug": "eqat-labs",
+    "name": "eQat Labs",
+    "kind": "website",
+    "source": "original",
+    "role": "Website UI design",
+    "summary": "A website design combining a gradient-led introduction, product imagery, service content, and contact opportunities."
+  },
+  {
+    "slug": "cfast",
+    "name": "Cfast",
+    "kind": "website",
+    "source": "original",
+    "role": "Website UI design",
+    "summary": "An original website layout introducing a connected platform through device imagery, feature sections, and supporting content."
+  },
+  {
+    "slug": "circus-costume",
+    "name": "Circus Costume",
+    "kind": "website",
+    "source": "original",
+    "role": "Website UI design",
+    "summary": "An original e-commerce homepage and presentation board built around editorial fashion photography, category discovery, and a dark visual identity."
+  },
+  {
+    "slug": "apptoes",
+    "name": "Apptoes",
+    "kind": "website",
+    "source": "original",
+    "role": "Website UI design",
+    "summary": "An original website layout combining a dark photographic hero, services, and supporting product information."
+  },
+  {
+    "slug": "job-contact",
+    "name": "Jobcontact",
+    "kind": "website",
+    "source": "original",
+    "role": "Website UI design",
+    "summary": "An original recruitment website layout combining a clear job-search proposition, a prominent form, and supporting information."
+  },
+  {
+    "slug": "allergy-mate",
+    "name": "Allergy Mate",
+    "kind": "website",
+    "source": "original",
+    "role": "Website UI design",
+    "summary": "An original app-marketing landing page centred on food-allergy messaging and product presentation."
+  },
+  {
+    "slug": "emerald",
+    "name": "Emerald",
+    "kind": "website",
+    "source": "original",
+    "role": "Website UI design",
+    "summary": "An archived website homepage design using animal photography, service information, and a green-and-red visual language."
+  },
+  {
+    "slug": "virtual-care",
+    "name": "Virtual Care Website Study",
+    "kind": "website",
+    "source": "original",
+    "role": "Website UI design",
+    "summary": "An archived website design study for virtual-care services. The supplied file uses a placeholder brand, so it is presented as a design study rather than a named client engagement."
+  },
+  {
+    "slug": "automotive",
+    "name": "Automotive Website Study",
+    "kind": "website",
+    "source": "original",
+    "role": "Website UI design",
+    "summary": "An archived automotive website design study with vehicle imagery, comparison-style content, and a long-form page structure."
+  },
+  {
+    "slug": "charity-events",
+    "name": "Charity Event Website",
+    "kind": "website",
+    "source": "original",
+    "role": "Website UI design",
+    "summary": "An archived event-focused homepage design combining event imagery, supporting information, and social proof within a single page."
+  },
+  {
+    "slug": "logo-design",
+    "name": "Selected Logo Designs",
+    "kind": "identity",
+    "source": "original",
+    "role": "Logo design",
+    "summary": "Original logo artwork from the archive, covering travel, software, financial services, laundry, and training businesses."
+  },
+  {
+    "slug": "lending-careers",
+    "name": "Lending Careers",
+    "kind": "print",
+    "source": "original",
+    "role": "Business card design",
+    "summary": "Three original business-card presentation boards exploring the same identity across front-and-back layouts."
+  },
+  {
+    "slug": "techbisket",
+    "name": "TechBisket",
+    "kind": "print",
+    "source": "original",
+    "role": "Proposal and brochure design",
+    "summary": "Original proposal and brochure artwork combining a cover, company introduction, process page, and presentation mockup."
+  },
+  {
+    "slug": "moringa-label",
+    "name": "Moringa Packaging",
+    "kind": "print",
+    "source": "original",
+    "role": "Packaging and label design",
+    "summary": "An original label and packaging presentation showing the artwork both flat and applied to a container."
+  },
+  {
+    "slug": "everything-ict",
+    "name": "Everything ICT",
+    "kind": "website",
+    "source": "live",
+    "role": "Mega menu and website design",
+    "summary": "ICT procurement website with audience-led starting points, service navigation, and a clear contact route."
+  },
+  {
+    "slug": "vestarad",
+    "name": "Vesta Teleradiology",
+    "kind": "website",
+    "source": "live",
+    "role": "Website design",
+    "summary": "A healthcare service website presenting radiology coverage and related services."
+  },
+  {
+    "slug": "graphic-kitchen",
+    "name": "Graphic Kitchen",
+    "kind": "website",
+    "source": "live",
+    "role": "Website design",
+    "summary": "A creative-agency website with a visually led introduction, services, and project discovery."
+  },
+  {
+    "slug": "dinkurs",
+    "name": "Dinkurs",
+    "kind": "website",
+    "source": "live",
+    "role": "Website design + HTML / WordPress",
+    "summary": "An event and participant-management website with product explanation, feature discovery, and demonstration calls to action."
+  },
+  {
+    "slug": "eventry",
+    "name": "Eventry",
+    "kind": "website",
+    "source": "live",
+    "role": "Website design",
+    "summary": "An event-platform website introducing event creation, invitations, and ticketing."
+  }
+]

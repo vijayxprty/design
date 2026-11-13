@@ -1,21 +1,27 @@
 # Vijay Kumar — Design worth noticing
 
-Business portfolio with original design concepts, selected project credits, responsive layouts, day/night themes and accessible motion controls.
-
 Live website: https://vijayxprty.github.io/design/
 
-## Deployment
+A static business portfolio with original design artwork, a filterable project library, 30 dedicated project pages, full-size image viewing, day/night themes and accessible motion controls.
 
-GitHub Pages publishes the root of the `main` branch. This is a static website; there is no build step.
+## Project sources
+
+The portfolio distinguishes original supplied design exports, Adobe XD prototype captures, and current live-site reference screenshots. Current sites may reflect later changes. Wireframe images are retrospective reconstructions created for this portfolio, not original process artifacts. The design breakdowns discuss visible interface structure; they do not claim undocumented interviews, user testing or business results.
+
+Raw XD source files, private review comments and local inventories are not published.
+
+## Hosting
+
+GitHub Pages publishes the root of `main`. There is no build step.
 
 ## Local preview
 
-Run `python3 -m http.server 8000` in this directory and open http://localhost:8000/.
+Run `python3 -m http.server 8000` here and open http://localhost:8000/.
 
 ## Contact flow
 
-The enquiry form opens WhatsApp with a prepared message. The visitor reviews and sends it in WhatsApp; no form data is stored by this website.
+The enquiry form opens WhatsApp with a prepared message for the visitor to review and send. This website does not store form submissions.
 
-## Fonts and concepts
+## Fonts
 
-Inter font files are self-hosted. See `fonts/FONT-LICENSE.txt` for the font license. Illustrative concepts are labeled separately from credited project links.
+Inter is self-hosted. See `fonts/FONT-LICENSE.txt` for the license text embedded in the font source.
